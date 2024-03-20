@@ -1,11 +1,10 @@
 # Hotel-Reservation-Analysis-Using-SQL
-
 This project Hotel Reservation Analysis using SQL is part of my internship at Mentorness.
 
-Overview:
+# Overview:
 The hotel industry relies on data to make informed decisions and provide a better guest experience. In this project, I worked with a hotel reservation dataset to gain insights into guest preferences, booking trends, and other key factors that impact the hotel's operations. Used SQL to query and analyze the data, as well as answer specific questions about the dataset.
 
-Dataset Details:
+# Dataset Details:
 The dataset includes the following columns:
 
 Booking_ID: A unique identifier for each hotel reservation.
